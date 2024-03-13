@@ -53,6 +53,7 @@ h3, .h3 {font-size: 21px; font-family: var(--header-font-family); font-weight: v
   h3, .h3 {font-size: 21px; font-weight: var(--text-bold);}
 }
 p, .p, li, ul {font-size: 1rem; margin-top: 0; margin-bottom: 1em; line-height: 1.5;}
+li, ul {text-align: left;}
 dfn, cite, em, i {font-size: 1em; font-style: italic;}
 blockquote {position: relative; margin: 0 0 1em;	padding: 2em 1.5em .5em 3.5em; font-style: italic;}
 blockquote:before {position: absolute;	top: .1em;	left: 0em;	content: "“";	font-size: 6em;	line-height: 100%;	color: var(--default-text-color);}
